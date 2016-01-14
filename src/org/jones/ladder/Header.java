@@ -1,5 +1,5 @@
 package org.jones.ladder;
 
-public class Transaction {
-	
+public class Header {
+
 }
